@@ -34,6 +34,7 @@ enum
     OPENRGB_PLUGIN_LOCATION_DEVICES     = 1,    /* Devices tab                                         */
     OPENRGB_PLUGIN_LOCATION_INFORMATION = 2,    /* Information tab                                     */
     OPENRGB_PLUGIN_LOCATION_SETTINGS    = 3,    /* Settings tab                                        */
+    OPENRGB_PLUGIN_LOCATION_Test = 4,    /* Test tab                                        */
 };
 
 struct OpenRGBPluginInfo
